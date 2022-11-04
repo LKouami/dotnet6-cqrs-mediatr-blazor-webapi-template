@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUI", "BlazorUI\BlazorUI.csproj", "{638B511C-480C-40CE-BDE9-4E2470956606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMLibrary", "SSMLibrary\SSMLibrary.csproj", "{DBBC5164-402B-4CE3-8BEF-68566B017B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMApi", "SSMApi\SSMApi.csproj", "{769FE1E8-84F0-4009-B59C-FCB229C443B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638B511C-480C-40CE-BDE9-4E2470956606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638B511C-480C-40CE-BDE9-4E2470956606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638B511C-480C-40CE-BDE9-4E2470956606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638B511C-480C-40CE-BDE9-4E2470956606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBC5164-402B-4CE3-8BEF-68566B017B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBC5164-402B-4CE3-8BEF-68566B017B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBC5164-402B-4CE3-8BEF-68566B017B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBC5164-402B-4CE3-8BEF-68566B017B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769FE1E8-84F0-4009-B59C-FCB229C443B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769FE1E8-84F0-4009-B59C-FCB229C443B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769FE1E8-84F0-4009-B59C-FCB229C443B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769FE1E8-84F0-4009-B59C-FCB229C443B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854047B4-F75E-415E-9BD9-BCBD5484188F}
+	EndGlobalSection
+EndGlobal
